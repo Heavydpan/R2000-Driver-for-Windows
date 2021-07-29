@@ -1,2 +1,4 @@
 # R2000-Driver-for-Windows
-R2000 Driver for Windows, beta version, need BOOST.
+R2000 Driver for Windows
+Beta version
+Need BOOST
